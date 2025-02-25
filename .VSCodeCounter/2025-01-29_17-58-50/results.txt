@@ -1,0 +1,49 @@
+Date : 2025-01-29 17:58:50
+Directory : c:\Users\Rudra Pratap Singh\Desktop\Namaste react
+Total : 16 files,  42415 codes, 5464 comments, 307 blanks, all 48186 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         10 |     38,957 |      5,459 |        274 |     44,690 |
+| JSON       |          2 |      3,248 |          0 |          3 |      3,251 |
+| CSS        |          2 |        184 |          5 |         30 |        219 |
+| HTML       |          2 |         26 |          0 |          0 |         26 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |         16 |     42,415 |      5,464 |        307 |     48,186 |
+| . (Files)                                                                          |          4 |      3,353 |          4 |         18 |      3,375 |
+| dist                                                                               |          6 |     37,126 |      5,460 |        144 |     42,730 |
+| src                                                                                |          6 |      1,936 |          0 |        145 |      2,081 |
+| src (Files)                                                                        |          1 |         14 |          0 |          7 |         21 |
+| src\components                                                                     |          3 |         64 |          0 |          4 |         68 |
+| src\utils                                                                          |          2 |      1,858 |          0 |        134 |      1,992 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                           | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\dist\Namaste react.3464ddca.js   | JavaScript |      1,147 |      1,768 |         31 |      2,946 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\dist\index.6bd02f5a.js           | JavaScript |          5 |          1 |          2 |          8 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\dist\index.7271efb6.js           | JavaScript |     17,101 |      1,845 |         51 |     18,997 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\dist\index.7826abd7.js           | JavaScript |     18,768 |      1,845 |         45 |     20,658 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\dist\index.9e4c6fd2.css          | CSS        |         92 |          1 |         15 |        108 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\dist\index.html                  | HTML       |         13 |          0 |          0 |         13 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\index.css                        | CSS        |         92 |          4 |         15 |        111 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\index.html                       | HTML       |         13 |          0 |          0 |         13 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\package-lock.json                | JSON       |      3,214 |          0 |          1 |      3,215 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\package.json                     | JSON       |         34 |          0 |          2 |         36 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\src\App.js                       | JavaScript |         14 |          0 |          7 |         21 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\src\components\Body.js           | JavaScript |         15 |          0 |          2 |         17 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\src\components\Header.js         | JavaScript |         22 |          0 |          1 |         23 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\src\components\RestaurantCard.js | JavaScript |         27 |          0 |          1 |         28 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\src\utils\constant.js            | JavaScript |          4 |          0 |          1 |          5 |
+| c:\Users\Rudra Pratap Singh\Desktop\Namaste react\src\utils\mockdata.js            | JavaScript |      1,854 |          0 |        133 |      1,987 |
+| Total                                                                              |            |     42,415 |      5,464 |        307 |     48,186 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
